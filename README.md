@@ -74,7 +74,7 @@ Esta es una API construida en **Node.js**, desplegada en **Docker**, diseñada p
 
   - AZURE_OPENAI_API_KEY
 
-  -AZURE_OPENAI_ENDPOINT
+  - AZURE_OPENAI_ENDPOINT
 
   - AZURE_OPENAI_DEPLOYMENT_NAME
 
